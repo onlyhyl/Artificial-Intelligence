@@ -14,5 +14,5 @@
   - duofenlei：使用keras处理多分类问题
   - huigui：使用keras处理回归问题
   
-机器学习详细请转去个人博客：
-深度学习详细请转去个人博客：
+机器学习详细请转去个人博客：https://blog.csdn.net/qq_31779317/article/details/89207185  
+深度学习详细请转去个人博客：https://blog.csdn.net/qq_31779317/article/details/89332111
