@@ -6,7 +6,8 @@
   - knn.py：KNN近邻  
   - DecitionTree.py：决策树  
   - linear.py：线性回归  
-  - 其中，dicts.py为损失择优：梯度下降  
+  - 其中，dicts.py为损失择优：梯度下降
+  
 深度学习：包含keras框架、及分类、回归的问题解决代码实现。
   - keras.py：keras框架的使用
   - erfenlei：使用keras处理二分类问题
